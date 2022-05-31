@@ -1,3 +1,7 @@
 Notre projet est plutôt simple : en effet, il s'agissait à l'origine d'un babyfoot connecté. Mais pendant le projet au fur et à mesure que nous avancions, nous nous sommes posés une question /
 Y a-t-il un moyen de faire mieux ?
 Nous avons décidé de nous rabattre sur un air hockey connecté suite aux conseils des professeurs.
+
+Nous avons fait en sorte qu'à chaque fois que le palet passait les cages, on ajoute un point au score total.
+
+Nous avons imprimé en 3d les outils dont nous avions besoin et utilisé l'écran LCD.
