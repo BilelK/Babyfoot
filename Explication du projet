@@ -5,3 +5,5 @@ Nous avons décidé de nous rabattre sur un air hockey connecté suite aux conse
 Nous avons fait en sorte qu'à chaque fois que le palet passait les cages, on ajoute un point au score total.
 
 Nous avons imprimé en 3d les outils dont nous avions besoin et utilisé l'écran LCD.
+
+Le code ne marche pas sur la carte UCA !
